@@ -90,11 +90,9 @@
               <a href="https://github.com/luisosorio3214/SQL- 
               Projects/blob/main/Sequel%20Premiere%20FIlms/Data%20Modeling%20%26%20Queries/Premiere%20Films.sql">
                 Here</a> <br>     
-          Data Model: 
+          Data Model: <br>
             <img src="All Dashboard Images/film_schema.png">  
         </li>
-
-        
       </ul>
     </ol>
   </p> 
