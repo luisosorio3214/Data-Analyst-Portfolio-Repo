@@ -37,10 +37,10 @@
       Jupyter Notebook: 
           <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Bird%20Tracking/Bird_Tracking.ipynb">
             Here</a> <br>
-      Data Base Schema: <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Bird%20Tracking/Database%20-%20Schema">
+      Database Schema: <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Bird%20Tracking/Database%20-%20Schema">
             Here</a> <br>
       Data Queries SQL Script: <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Bird%20Tracking/Outputs/bird_tracking.sql">
-            Here</a> <br> <br>
+            Here</a> <br>
       Interactive Dashboard: <a href="https://public.tableau.com/shared/MMDCJHPN4?:display_count=n&:origin=viz_share_link">
             Here</a> <br> <br>
       <img src="All Dashboard Images/The Retirement Getaway.png"> 
