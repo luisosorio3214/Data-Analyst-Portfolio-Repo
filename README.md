@@ -41,9 +41,40 @@
             Here</a> <br>
       Data Queries SQL Script: <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Bird%20Tracking/Outputs/bird_tracking.sql">
             Here</a> <br>
-      Interactive Dashboard: <a href="https://public.tableau.com/shared/MMDCJHPN4?:display_count=n&:origin=viz_share_link">
+      Interactive Dashboard(1 of 3): <a href="https://public.tableau.com/shared/MMDCJHPN4?:display_count=n&:origin=viz_share_link">
             Here</a> <br> <br>
       <img src="All Dashboard Images/The Retirement Getaway.png"> 
+    </ol>
+
+  </p> 
+</p>
+
+<p>
+  <h3>SQL-</h3>
+  <p>
+    <ol>
+      <ul>
+        <li>
+          <h4>Nashville Housing <a href="https://github.com/luisosorio3214/SQL- 
+          Projects/tree/main/Nashville%20Housing%20Data%20Cleaning">Data Cleaning</a>
+          </h4>
+          Database Schema SQL Script: <a href="https://github.com/luisosorio3214/SQL- 
+                Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/DATABASE_CREATION.sql">
+                Here</a> <br>
+          Data Cleaning SQL Script: <a href="https://github.com/luisosorio3214/SQL- 
+           Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/nashville_cleaning.sql">
+                Here</a> <br>
+        </li>
+
+        <li>
+          <h4>Music Band <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Music%20Band">Data Exploration</a>
+          </h4>
+          Data Exploration SQL Script: 
+              <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Music%20Band/Music_Band_Project.sql">
+                Here</a> <br>     
+        </li>
+        
+      </ul>
     </ol>
 
   </p> 
