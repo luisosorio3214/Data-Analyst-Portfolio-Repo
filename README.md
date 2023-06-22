@@ -7,7 +7,7 @@
     <ol>
       <ul>
         <li>
-          Microsoft Stock Events Project
+          Microsoft Stock Events <a href="https://github.com/luisosorio3214/Power-BI-Dashboards/tree/main/Microsoft%20Stock">Project</a>
         </li>
       </ul>
       Interactive Dashboard: 
