@@ -99,7 +99,7 @@
 </p>
 
 <p>
-  <h3>Power Bi Dashboards-</h3>
+  <h3>Power BI Dashboards-</h3>
   <p>
     <ol>
       <ul>
