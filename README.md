@@ -65,7 +65,6 @@
            Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/nashville_cleaning.sql">
                 Here</a> <br>
         </li>
-
         <li>
           <h4>Music Band <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Music%20Band">Data Exploration</a>
           </h4>
@@ -73,9 +72,30 @@
               <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Music%20Band/Music_Band_Project.sql">
                 Here</a> <br>     
         </li>
+        <li>
+          <h4>Olympics History <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Music%20Band"> Advanced Data 
+              Exploration</a>
+          </h4>
+          Data Schema SQL Script: 
+              <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Olympics/OLYMPICS%20DATABASE%20-%20Schema.sql">
+                Here</a> <br>     
+          Data Exploration SQL Script: 
+            <a href="https://github.com/luisosorio3214/SQL-Projects/blob/main/Olympics/OLYMPICS%20-%20SQL(%231-10).sql">
+              Here</a> <br>    
+        </li>
+        <li>
+          <h4>Sequel Premiere Films <a href="https://github.com/luisosorio3214/SQL-Projects/tree/main/Music%20Band">Project</a>
+          </h4>
+          Data SQL Script: 
+              <a href="https://github.com/luisosorio3214/SQL- 
+              Projects/blob/main/Sequel%20Premiere%20FIlms/Data%20Modeling%20%26%20Queries/Premiere%20Films.sql">
+                Here</a> <br>     
+          Data Model: 
+            <img src="All Dashboard Images/film_schema.png">  
+         </li>
+
         
       </ul>
     </ol>
-
   </p> 
 </p>
