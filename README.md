@@ -62,7 +62,7 @@
                 Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/DATABASE_CREATION.sql">
                 Here</a> <br>
           Data Cleaning SQL Script: <a href="https://github.com/luisosorio3214/SQL- 
-           Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/nashville_cleaning.sql">
+          Projects/blob/main/Nashville%20Housing%20Data%20Cleaning/nashville_cleaning.sql">
                 Here</a> <br>
         </li>
         <li>
@@ -92,7 +92,7 @@
                 Here</a> <br>     
           Data Model: 
             <img src="All Dashboard Images/film_schema.png">  
-         </li>
+        </li>
 
         
       </ul>
